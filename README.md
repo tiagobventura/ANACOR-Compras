@@ -1,4 +1,4 @@
-# Análise de Correspondência Simples(ANACOR) - Utilizados dados de compras
+# Análise de Correspondência Simples(ANACOR)
 Analise de correspondência Simples(ANACOR) - Com dados de compras realizadas
 
 <p>
