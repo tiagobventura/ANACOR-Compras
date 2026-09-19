@@ -1,5 +1,5 @@
-# ANACOR-Compras
-Analise de correspondência Simples(ANACOR) - Com dados de compras
+# Análise de Correspondência Simples(ANACOR) - Utilizados dados de compras
+Analise de correspondência Simples(ANACOR) - Com dados de compras realizadas
 
 <p>
   As análises de correspondência simples (ANACOR) ou múltipla (ACM) são técnicas de machine learning não supervisionadas que verificam a associação entre categorias de variáveis qualitativas, sem recorrer à ponderação arbitrária.
