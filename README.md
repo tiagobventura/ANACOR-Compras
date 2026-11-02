@@ -19,3 +19,4 @@ Analise de correspondência Simples(ANACOR) - Com dados de compras realizadas
   https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 </p>
  
+<img width="1755" height="955" alt="image" src="https://github.com/user-attachments/assets/d682a02b-7a73-4628-9c19-7833c05c211f" />
